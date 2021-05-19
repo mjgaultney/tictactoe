@@ -3,11 +3,11 @@ friendly game of tic tac toe
 
 How to play
 ------------
-1. Download the files
-2. Open standalone.html on a local server in your browser
-3. Play tic tac toe
+First you would download the associated files onto your computer. 
+Open the HTML file on a local server and refresh to ensure you have a clean board.
+Grab a friend and enjoy a nice game of tic tac toe. (hint: go first and you never lose). 
 
-improvements
+Improvements
 -------------
 Before starting the game each player would be able to assign the X or O to their team name. There is a lot to be desired in regards to the interface design. Future versions would have a stone as a place keeper (different colors or types) in place of the X and O's. 
 When one game is won there would be a button to initiate a new game while keeping a tally under the team name of who won the previous games. 
